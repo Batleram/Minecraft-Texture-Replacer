@@ -1,0 +1,19 @@
+{
+  "node": ">=13.3",
+  "name": "mc-ride-texture-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^5.3.1",
+    "cli-progress": "^3.12.0",
+    "exif": "^0.6.0",
+    "jimp": "^0.22.7"
+  }
+}
